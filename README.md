@@ -7,9 +7,9 @@
 
 3.정답을 체크하면 녹색불
 
-4.퀴즈를 다풀면 맞춘갯수와 틀린갯수표시
+4.퀴즈를 풀면 맞춘갯수와 틀린갯수표시!
 
-<img width="373" alt="스크린샷 2022-03-06 오후 2 10 24" src="https://user-images.githubusercontent.com/91593937/156911160-762d4dbb-9e32-47cc-8269-18e2f09e6afe.png"><img width="354" alt="스크린샷 2022-03-06 오후 2 09 55" src="https://user-images.githubusercontent.com/91593937/156911152-7067fa77-9d94-4d08-8122-f7bdbf6bb3b2.png">
+![스크린샷 2022-03-08 오전 12 29 36](https://user-images.githubusercontent.com/91593937/157064893-55731d29-b5d3-4d12-9a4d-fc8b5a6e66a5.png)
 
 이 유튜브 채널을 참고해서 제작한 앱입니다.
 
